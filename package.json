@@ -1,0 +1,15 @@
+{
+  "name": "calculatetesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "__test__/heightCalculate.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
